@@ -1,0 +1,13 @@
+{
+    "displayName": "kg-database",
+    "appName": "kg-database",
+    "description": "api for evaluation",
+    "lastModified": "2024-08-08T08:24:28.661Z",
+    "imgSourcePath": "",
+    "version": "1.0.0",
+    "appType": "apiOnly",
+    "templateName": "blank",
+    "createDate": "2024-08-08T08:24:27.586Z",
+    "analyticsId": "bb4e8344-960d-ea2e-ab88-3b0140eac2df",
+    "createdStudioVersion": "9.2.1"
+}
